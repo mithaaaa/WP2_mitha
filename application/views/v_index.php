@@ -34,7 +34,8 @@ dengan model secara langsung, intinya data yang tersimpan di
 database (model) di ambil oleh controller dan kemudian controller 
 pula yang menampilkan nya ke view. Jadi controller lah yang mengolah 
 intruksi.</p>
-<p align=’justify’>Dari penjelasan tentang model view dan controller 
+<p align=’justify’
+>Dari penjelasan tentang model view dan controller 
 di atas dapat di simpulkan bahwa controller sebagai penghubung view
 dan model. Misalnya pada aplikasi yang menampilkan data dengan 
 menggunakan metode konsep mvc, controller memanggil intruksi pada 
